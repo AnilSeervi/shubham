@@ -7,7 +7,7 @@ const SEO = () => {
 				name="viewport"
 				content="width=device-width,initial-scale=1,minimum-scale=1,user-scalable=yes"
 			/>
-			<link rel="shortcut icon" href="shubham.jpg" type="image/jpeg" />
+			<link rel="shortcut icon" href="shubham.jpeg" type="image/jpeg" />
 			<title>Shubham Srivastava | Zenduty</title>
 			<meta
 				name="description"

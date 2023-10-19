@@ -96,7 +96,11 @@ nav {
 		width: 3.4rem;
 		height: 3.4rem;
 		&.author-shubham {
-			background: url("../public/shubham.jpg") no-repeat center center / cover;
+			background: url("../public/shubham.jpeg") no-repeat center center / cover;
+		}
+		&.author-meetup,
+		&.author-slack {
+			background: url("../public/sreslack.png") no-repeat center center / cover;
 		}
 		&.author-zenduty {
 			background-color: var(--bg);
@@ -106,7 +110,7 @@ nav {
 			background-size: 2.6rem;
 			@media (prefers-color-scheme: dark) {
 				color: var(--bg);
-				background-image: url("../public//icon_darkmode.svg");
+				background-image: url("../public/icon_darkmode.svg");
 			}
 		}
 	}
